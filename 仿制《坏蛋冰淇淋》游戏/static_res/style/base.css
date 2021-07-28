@@ -1,0 +1,9 @@
+﻿#container {
+  width: 550px;
+  height: 550px;
+  margin: auto auto;
+}
+
+canvas {
+  background-color: black;
+}
